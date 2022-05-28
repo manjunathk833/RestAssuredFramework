@@ -1,4 +1,4 @@
-# RestAssuredFramework
+# RestAssured: API Automation Framework
 
 Rest Assured is an API designed for automation REST APIs/web services
 
